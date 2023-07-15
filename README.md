@@ -18,11 +18,3 @@ I had NVIDIA GPU in my laptop, so it took roughly <code>**33 seconds for 1 epoch
 - Finally the model was compiled with <code>**Adam**</code> as the optimizer.
 
 - The model was saved in the form of json and was reused in the videotester.py file which is used to detect face from the live camera.
-
-> iypnb file : [Click here](https://github.com/kabhishek20/Realtime_Facial_Emotion_Detection/blob/main/Realtime_Emotion_Detection.ipynb)
-
-> json model : [Click here](https://github.com/kabhishek20/Realtime_Facial_Emotion_Detection/blob/main/Emotion_Model.json)
-
-> haarcascade : [Click here](https://github.com/kabhishek20/Realtime_Facial_Emotion_Detection/blob/main/haarcascade_frontalface_default.xml)
-
-> Videotester : [Click here](https://github.com/kabhishek20/Realtime_Facial_Emotion_Detection/blob/main/videoTester.py)
